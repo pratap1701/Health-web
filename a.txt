@@ -1,0 +1,9 @@
+https://aman031298.github.io/health-website/
+https://brave-bay-05cd57910.2.azurestaticapps.net
+https://youtu.be/Wd76dJ_AzT4
+
+0213CS221203
+select * from customers where customer name like "%i";
+select * from customers where customer name like "S%";
+select * from customers where customer name like "%am%";
+select * from customers where country like "S_____";
